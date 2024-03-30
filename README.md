@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASPDragon
-- 👀 I’m interested in sowtware development and videogames
+- 👀 I’m interested in software development and videogames
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me Telegramm: @aspdragon
