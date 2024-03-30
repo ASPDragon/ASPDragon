@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and videogames
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me Telegramm: @aspdragon
+- 📫 How to reach me Telegramm: @FeanaroCurufinwe
 
 <!---
 ASPDragon/ASPDragon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
